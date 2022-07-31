@@ -7,5 +7,4 @@ we have used logistic regression method for prediction
 the output would look like this
 ![image](https://user-images.githubusercontent.com/99634911/178243838-a4c1c3be-d31f-473a-b99b-c153d0140a2a.png)
 
-Thankyou<333
-if you have any doubts, you can contact me, i have added my contact details in the text file
+
