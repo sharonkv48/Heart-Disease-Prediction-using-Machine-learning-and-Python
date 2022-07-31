@@ -1,9 +1,0 @@
-This is a system which predicts whether the person has Heart disease or not, by using machiene learning and python
-0 means the perrson's heart is healthy 
-1 means the person has heart disease
-we have used logistic regression method to predict 
-
-
-if you have any doubts, contact me at
-email: sharonfx100@gmail.com
-Thankyou<33
